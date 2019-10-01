@@ -1,0 +1,22 @@
+{
+  "name": "dapp-messenger",
+  "version": "1.0.0",
+  "description": "This is a private messenger tool using eth blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LihaoYu94/dapp-messenger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LihaoYu94/dapp-messenger/issues"
+  },
+  "homepage": "https://github.com/LihaoYu94/dapp-messenger#readme",
+  "dependencies": {
+    "web3": "github:ethereum/web3.js"
+  }
+}
